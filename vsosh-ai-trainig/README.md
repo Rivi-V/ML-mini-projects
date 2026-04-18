@@ -4,11 +4,11 @@
 
 ## Проекты
 
-### `vsosh-ai-training/netflix_eda.ipynb`
+### `netflix_eda.ipynb`
 Исследовательский анализ и визуализация данных по каталогу Netflix: структура датасета, пропуски, типы контента и основные закономерности.
 
-### `vsosh-ai-training/heart_disease_classification.ipynb`
+### `heart_disease_classification.ipynb`
 Классификация на датасете Heart Disease: первичный анализ данных, подготовка признаков, обучение и сравнение моделей.
 
-### `vsosh-ai-training/diamond_price_regression.ipynb`
+### `diamond_price_regression.ipynb`
 Регрессия на датасете Diamonds: анализ признаков, подготовка данных и сравнение моделей для предсказания цены.
